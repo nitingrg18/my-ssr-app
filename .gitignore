@@ -1,0 +1,16 @@
+# .gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Optional: Ignore package-lock.json or yarn.lock
+# Depending on which package manager you use, you can choose to ignore
+# the respective lock file to prevent it from being tracked in Git.
+# Comment out the line for the lock file that you're not using.
+
+# For npm
+# package-lock.json
+
+# For Yarn
+# yarn.lock
+build/
